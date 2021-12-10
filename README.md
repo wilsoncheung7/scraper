@@ -1,8 +1,8 @@
-Installation
+Installation\
 pip install scrapy
 
-How to run
+How to run\
 scrapy runspider filename
 
-Convert to csv file
+Convert to csv file\
 scrapy runspider filename -t csv -o filename.csv
